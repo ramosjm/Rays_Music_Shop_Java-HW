@@ -10,4 +10,8 @@ public abstract class Instrument {
         this.instrumentType = instrumentType;
     }
 
+    public double getBuyPrice(){
+        return this.buyPrice;
+    }
+
 }
