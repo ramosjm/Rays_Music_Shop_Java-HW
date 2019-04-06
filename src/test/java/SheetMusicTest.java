@@ -44,4 +44,9 @@ public class SheetMusicTest {
     public void canCalculateMarkUp(){
         assertEquals(5.00,sheetMusic.calculateMarkUp(),0.001);
     }
+
+    @Test
+    public void canGetSongTitle(){
+        assertEquals("Moonlight",sheetMusic.getSong());
+    }
 }

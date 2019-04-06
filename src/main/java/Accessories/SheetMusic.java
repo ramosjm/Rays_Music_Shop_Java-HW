@@ -8,4 +8,8 @@ public class SheetMusic extends Accessory {
         super(description,buyPrice,sellPrice);
         this.song = song;
     }
+
+    public String getSong(){
+        return this.song;
+    }
 }
