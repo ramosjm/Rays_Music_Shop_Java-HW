@@ -4,7 +4,6 @@ public class Piano extends Instrument {
         super(buyPrice,sellPrice,instrumentType);
     }
 
-
     public String play(String title){
         return "Piano is playing" + title;
     }
