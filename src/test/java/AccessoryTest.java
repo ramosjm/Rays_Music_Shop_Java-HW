@@ -37,12 +37,12 @@ public class AccessoryTest {
     public void canGetSellPrice(){
         assertEquals(300.00,accessory.getSellPrice(),0.001);
     }
-//
-//    @Test
-//    public void canSetSellPrice(){
-//        accessory.setSellPrice(450.55);
-//        assertEquals(450.55,accessory.getSellPrice(),0.001);
-//    }
+
+    @Test
+    public void canSetSellPrice(){
+        accessory.setSellPrice(450.55);
+        assertEquals(450.55,accessory.getSellPrice(),0.001);
+    }
 
 
 }
