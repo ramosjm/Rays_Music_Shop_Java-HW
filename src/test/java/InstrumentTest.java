@@ -40,4 +40,9 @@ public class InstrumentTest {
     public void instrumentCanGetInstrumentType(){
         assertEquals(InstrumentType.STRING,guitar.getType());
     }
+
+    @Test
+    public void canCalculateMarkUp(){
+        assertEquals(280.40,instrument.calculateMarkUp(),0.001);
+    }
 }

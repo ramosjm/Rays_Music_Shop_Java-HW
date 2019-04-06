@@ -7,4 +7,8 @@ public class Piano extends Instrument {
     public String play(String title){
         return "Piano is playing " + title;
     }
+
+    public double calculateMarkUp(){
+        return this.getSellPrice() - this.getBuyPrice();
+    }
 }

@@ -1,4 +1,4 @@
-public abstract class Instrument implements IPlay {
+public abstract class Instrument implements IPlay, ISell{
 
     private double buyPrice;
     private double sellPrice;
@@ -28,6 +28,10 @@ public abstract class Instrument implements IPlay {
 
     public InstrumentType getType(){
         return this.instrumentType;
+    }
+
+    public double calculateMarkUp(){
+        return this.getSellPrice() - this.getBuyPrice();
     }
 
 
