@@ -148,6 +148,12 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>instrument</find>
+      <find>guitar</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -237,20 +243,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PianoTest">
-    <configuration name="GuitarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.FluteTest">
+    <configuration name="FluteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.musicshoplab.MusicShop.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GuitarTest" />
+      <option name="MAIN_CLASS_NAME" value="FluteTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstrumentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GuitarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.musicshoplab.MusicShop.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="InstrumentTest" />
+      <option name="MAIN_CLASS_NAME" value="GuitarTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -287,11 +293,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FluteTest" />
         <item itemvalue="JUnit.PianoTest" />
         <item itemvalue="JUnit.GuitarTest" />
         <item itemvalue="JUnit.InstrumentTest.instrumentCanSetSellPrice" />
         <item itemvalue="JUnit.InstrumentTest.instrumentCanSetBuyPrice" />
-        <item itemvalue="JUnit.InstrumentTest" />
       </list>
     </recent_temporary>
   </component>
