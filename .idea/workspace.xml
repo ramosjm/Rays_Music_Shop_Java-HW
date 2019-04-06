@@ -291,7 +291,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AccessoryTest.canCalculateMarkUp">
+  <component name="RunManager" selected="JUnit.StrapTest">
     <configuration name="AccessoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.musicshoplab.MusicShop.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -306,16 +306,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="AccessoryTest" />
       <option name="METHOD_NAME" value="canCalculateMarkUp" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AccessoryTest.canGetBuyPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.codeclan.musicshoplab.MusicShop.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AccessoryTest" />
-      <option name="METHOD_NAME" value="canGetBuyPrice" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -340,13 +330,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StrapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.musicshoplab.MusicShop.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StrapTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StrapTest" />
         <item itemvalue="JUnit.AccessoryTest.canCalculateMarkUp" />
         <item itemvalue="JUnit.InstrumentTest" />
         <item itemvalue="JUnit.AccessoryTest" />
         <item itemvalue="JUnit.AccessoryTest.canSetBuyPrice" />
-        <item itemvalue="JUnit.AccessoryTest.canGetBuyPrice" />
       </list>
     </recent_temporary>
   </component>
