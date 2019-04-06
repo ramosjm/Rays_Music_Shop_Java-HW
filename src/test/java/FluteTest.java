@@ -38,4 +38,10 @@ public class FluteTest {
     public void canGetType(){
         assertEquals(InstrumentType.WIND,flute.getType());
     }
+
+    @Test
+    public void canPlay(){
+        assertEquals("Flute is playing Tune",flute.play("Tune"));
+
+    }
 }
