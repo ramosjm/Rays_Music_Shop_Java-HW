@@ -24,4 +24,8 @@ public abstract class Accessory {
     public void setBuyPrice(double newPrice){
         this.buyPrice = newPrice;
     }
+
+    public double getSellPrice() {
+        return sellPrice;
+    }
 }

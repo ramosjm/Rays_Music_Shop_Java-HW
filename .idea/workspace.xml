@@ -272,7 +272,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AccessoryTest.canSetBuyPrice">
+  <component name="RunManager" selected="JUnit.AccessoryTest">
     <configuration name="AccessoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.musicshoplab.MusicShop.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -324,10 +324,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AccessoryTest" />
         <item itemvalue="JUnit.AccessoryTest.canSetBuyPrice" />
         <item itemvalue="JUnit.AccessoryTest.canGetBuyPrice" />
         <item itemvalue="JUnit.AccessoryTest.canGetDescription" />
-        <item itemvalue="JUnit.AccessoryTest" />
         <item itemvalue="JUnit.InstrumentTest.canCalculateMarkUp" />
       </list>
     </recent_temporary>
