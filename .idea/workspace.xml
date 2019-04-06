@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4306c6fa-6a7e-4183-91cb-abd60ce23786" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Flute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Flute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Guitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Guitar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Piano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Piano.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/InstrumentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/InstrumentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AccessoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AccessoryTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -79,19 +75,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/IPlay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" selection-start-column="17" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/InstrumentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="44" column="37" lean-forward="true" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+            <state relative-caret-position="720">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#433#434#0" expanded="true" />
@@ -100,8 +87,47 @@
                 <element signature="e#586#587#0" expanded="true" />
                 <element signature="e#689#690#0" expanded="true" />
                 <element signature="e#719#720#0" expanded="true" />
+                <element signature="e#1133#1134#0" expanded="true" />
                 <element signature="e#1163#1164#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Accessories/Accessory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/AccessoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#569#570#0" expanded="true" />
+                <element signature="e#802#803#0" expanded="true" />
+                <element signature="e#869#870#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Accessories/Strap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -127,8 +153,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -155,6 +181,9 @@
         <option value="$PROJECT_DIR$/src/main/java/Flute.java" />
         <option value="$PROJECT_DIR$/src/main/java/Instrument.java" />
         <option value="$PROJECT_DIR$/src/test/java/InstrumentTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Accessories/Accessory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Accessories/Strap.java" />
+        <option value="$PROJECT_DIR$/src/test/java/AccessoryTest.java" />
       </list>
     </option>
   </component>
@@ -202,6 +231,14 @@
               <item name="MusicShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="weekend" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Accessories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weekend" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -229,12 +266,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.InstrumentTest.canCalculateMarkUp">
-    <configuration name="FluteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.AccessoryTest.canGetDescription">
+    <configuration name="AccessoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.musicshoplab.MusicShop.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FluteTest" />
+      <option name="MAIN_CLASS_NAME" value="AccessoryTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccessoryTest.canGetDescription" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.musicshoplab.MusicShop.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccessoryTest" />
+      <option name="METHOD_NAME" value="canGetDescription" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -243,16 +290,6 @@
       <module name="com.codeclan.musicshoplab.MusicShop.test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FluteTest" />
-      <option name="METHOD_NAME" value="canPlay" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GuitarTest.canPlay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.codeclan.musicshoplab.MusicShop.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GuitarTest" />
       <option name="METHOD_NAME" value="canPlay" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -281,11 +318,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AccessoryTest.canGetDescription" />
+        <item itemvalue="JUnit.AccessoryTest" />
         <item itemvalue="JUnit.InstrumentTest.canCalculateMarkUp" />
         <item itemvalue="JUnit.FluteTest.canPlay" />
         <item itemvalue="JUnit.PianoTest.canPlay" />
-        <item itemvalue="JUnit.GuitarTest.canPlay" />
-        <item itemvalue="JUnit.FluteTest" />
       </list>
     </recent_temporary>
   </component>
@@ -303,9 +340,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="InstrumentTest_instrumentCanSetBuyPrice - 2019.04.06 at 18h 46m 31s.xml">
-      <configuration name="InstrumentTest.instrumentCanSetBuyPrice" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="InstrumentTest_instrumentCanSetSellPrice - 2019.04.06 at 18h 48m 48s.xml">
       <configuration name="InstrumentTest.instrumentCanSetSellPrice" configurationId="JUnit" />
     </history-entry>
@@ -333,6 +367,9 @@
     <history-entry file="FluteTest_canPlay - 2019.04.06 at 20h 34m 22s.xml">
       <configuration name="FluteTest.canPlay" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="InstrumentTest_canCalculateMarkUp - 2019.04.06 at 20h 55m 59s.xml">
+      <configuration name="InstrumentTest.canCalculateMarkUp" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="726" extended-state="0" />
@@ -341,12 +378,12 @@
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.329653" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.329653" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="2" weight="0.329653" />
-      <window_info active="true" anchor="bottom" id="Messages" order="3" visible="true" weight="0.329653" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.329653" />
       <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
@@ -488,8 +525,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/InstrumentTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="44" column="37" lean-forward="true" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+        <state relative-caret-position="720">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#433#434#0" expanded="true" />
@@ -498,7 +535,40 @@
             <element signature="e#586#587#0" expanded="true" />
             <element signature="e#689#690#0" expanded="true" />
             <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#1133#1134#0" expanded="true" />
             <element signature="e#1163#1164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Accessories/Strap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Accessories/Accessory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AccessoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
           </folding>
         </state>
       </provider>

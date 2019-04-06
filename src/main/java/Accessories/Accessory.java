@@ -12,4 +12,8 @@ public abstract class Accessory {
         this.buyPrice = buyPrice;
         this.sellPrice = sellPrice;
     }
+
+    public String getDescription(){
+        return this.description;
+    }
 }
