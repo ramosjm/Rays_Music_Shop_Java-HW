@@ -18,4 +18,8 @@ public abstract class Instrument {
         return this.sellPrice;
     }
 
+    public InstrumentType getType(){
+        return this.instrumentType;
+    }
+
 }

@@ -157,7 +157,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.InstrumentTest.instrumentCanGetSellPrice">
+  <component name="RunManager" selected="JUnit.InstrumentTest">
+    <configuration name="InstrumentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.musicshoplab.MusicShop.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InstrumentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InstrumentTest.canGetBuyPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.musicshoplab.MusicShop.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -190,6 +199,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.InstrumentTest" />
         <item itemvalue="JUnit.InstrumentTest.instrumentCanGetSellPrice" />
         <item itemvalue="JUnit.InstrumentTest.instrumentCanGetBuyPrice" />
         <item itemvalue="JUnit.InstrumentTest.canGetBuyPrice" />
@@ -208,6 +218,17 @@
       <updated>1554570037984</updated>
     </task>
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="InstrumentTest_canGetBuyPrice - 2019.04.06 at 18h 19m 29s.xml">
+      <configuration name="InstrumentTest.canGetBuyPrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InstrumentTest_instrumentCanGetBuyPrice - 2019.04.06 at 18h 20m 41s.xml">
+      <configuration name="InstrumentTest.instrumentCanGetBuyPrice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InstrumentTest_instrumentCanGetSellPrice - 2019.04.06 at 18h 23m 28s.xml">
+      <configuration name="InstrumentTest.instrumentCanGetSellPrice" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="726" extended-state="0" />
