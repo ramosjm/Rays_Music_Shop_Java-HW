@@ -39,5 +39,11 @@ public class GuitarTest {
     public void canGetType(){
         assertEquals(InstrumentType.STRING,guitar.getType());
     }
+
+    @Test
+    public void canPlay(){
+        assertEquals("Guitar is playing Yay",guitar.play("Yay"));
+
+    }
 }
 

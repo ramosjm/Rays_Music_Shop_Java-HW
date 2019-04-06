@@ -5,6 +5,6 @@ public class Piano extends Instrument {
     }
 
     public String play(String title){
-        return "Piano is playing" + title;
+        return "Piano is playing " + title;
     }
 }

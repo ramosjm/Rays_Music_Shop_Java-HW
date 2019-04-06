@@ -5,6 +5,6 @@ public class Flute extends Instrument {
     }
 
     public String play(String title){
-        return "Flute is playing" + title;
+        return "Flute is playing " + title;
     }
 }
