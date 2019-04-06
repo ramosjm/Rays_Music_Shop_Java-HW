@@ -43,8 +43,12 @@ public class StrapTest {
     }
 
     @Test
-
     public void canCalculateMarkUp(){
         assertEquals(149.50,strap.calculateMarkUp(),0.001);
+    }
+
+    @Test
+    public void canGetStrapMaterial(){
+        assertEquals("Leather",strap.getMaterial());
     }
 }

@@ -8,4 +8,8 @@ public class Strap extends Accessory{
         super(description,buyPrice,sellPrice);
         this.material = material;
     }
+
+    public String getMaterial(){
+        return this.material;
+    }
 }

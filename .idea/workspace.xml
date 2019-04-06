@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4306c6fa-6a7e-4183-91cb-abd60ce23786" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Accessories/Accessory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Accessories/Accessory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/AccessoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/AccessoryTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/Accessory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/Accessory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/IPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interfaces/IPlay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ISell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interfaces/ISell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AccessoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AccessoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/Strap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/Strap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StrapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StrapTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -43,21 +37,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Piano.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-              <folding>
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#268#269#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#374#375#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Instrument.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -69,24 +48,6 @@
                 <element signature="e#821#822#0" expanded="true" />
                 <element signature="e#874#875#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/ISell.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/IPlay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -114,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Accessories/Accessory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            <state relative-caret-position="302">
+              <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
               <folding>
                 <element signature="e#382#383#0" expanded="true" />
                 <element signature="e#408#409#0" expanded="true" />
@@ -134,33 +95,39 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/AccessoryTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Accessories/Strap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+            <state relative-caret-position="180">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#374#375#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#528#529#0" expanded="true" />
-                <element signature="e#594#595#0" expanded="true" />
-                <element signature="e#787#788#0" expanded="true" />
-                <element signature="e#854#855#0" expanded="true" />
-                <element signature="e#1065#1066#0" expanded="true" />
-                <element signature="e#1095#1096#0" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Accessories/Strap.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/StrapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="258">
+              <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#84#85#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
+                <element signature="e#678#679#0" expanded="true" />
+                <element signature="e#881#882#0" expanded="true" />
+                <element signature="e#951#952#0" expanded="true" />
+                <element signature="e#1081#1082#0" expanded="true" />
+                <element signature="e#1111#1112#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -195,6 +162,7 @@
     <findStrings>
       <find>instrument</find>
       <find>guitar</find>
+      <find>accessory</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -214,9 +182,10 @@
         <option value="$PROJECT_DIR$/src/main/java/Flute.java" />
         <option value="$PROJECT_DIR$/src/main/java/Instrument.java" />
         <option value="$PROJECT_DIR$/src/test/java/InstrumentTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Accessories/Strap.java" />
         <option value="$PROJECT_DIR$/src/main/java/Accessories/Accessory.java" />
         <option value="$PROJECT_DIR$/src/test/java/AccessoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StrapTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Accessories/Strap.java" />
       </list>
     </option>
   </component>
@@ -291,7 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StrapTest">
+  <component name="RunManager" selected="JUnit.StrapTest.canGetStrapMaterial">
     <configuration name="AccessoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.musicshoplab.MusicShop.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -306,16 +275,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="AccessoryTest" />
       <option name="METHOD_NAME" value="canCalculateMarkUp" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AccessoryTest.canSetBuyPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.codeclan.musicshoplab.MusicShop.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AccessoryTest" />
-      <option name="METHOD_NAME" value="canSetBuyPrice" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -339,13 +298,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StrapTest.canGetStrapMaterial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.musicshoplab.MusicShop.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StrapTest" />
+      <option name="METHOD_NAME" value="canGetStrapMaterial" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StrapTest.canGetStrapMaterial" />
         <item itemvalue="JUnit.StrapTest" />
         <item itemvalue="JUnit.AccessoryTest.canCalculateMarkUp" />
         <item itemvalue="JUnit.InstrumentTest" />
         <item itemvalue="JUnit.AccessoryTest" />
-        <item itemvalue="JUnit.AccessoryTest.canSetBuyPrice" />
       </list>
     </recent_temporary>
   </component>
@@ -363,12 +332,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GuitarTest_canPlay - 2019.04.06 at 20h 31m 54s.xml">
-      <configuration name="GuitarTest.canPlay" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PianoTest_canPlay - 2019.04.06 at 20h 32m 45s.xml">
-      <configuration name="PianoTest.canPlay" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FluteTest_canPlay - 2019.04.06 at 20h 34m 22s.xml">
       <configuration name="FluteTest.canPlay" configurationId="JUnit" />
     </history-entry>
@@ -393,6 +356,12 @@
     <history-entry file="AccessoryTest - 2019.04.06 at 22h 35m 35s.xml">
       <configuration name="AccessoryTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AccessoryTest_canCalculateMarkUp - 2019.04.06 at 22h 45m 49s.xml">
+      <configuration name="AccessoryTest.canCalculateMarkUp" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StrapTest - 2019.04.06 at 22h 49m 15s.xml">
+      <configuration name="StrapTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="726" extended-state="0" />
@@ -403,10 +372,10 @@
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.329653" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.329653" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="2" weight="0.329653" />
-      <window_info active="true" anchor="bottom" id="Messages" order="3" visible="true" weight="0.329653" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.329653" />
       <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
@@ -533,13 +502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Accessories/Strap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Instrument.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -550,27 +512,6 @@
             <element signature="e#777#778#0" expanded="true" />
             <element signature="e#821#822#0" expanded="true" />
             <element signature="e#874#875#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Accessories/Accessory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-          <folding>
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#638#639#0" expanded="true" />
-            <element signature="e#688#689#0" expanded="true" />
-            <element signature="e#729#730#0" expanded="true" />
-            <element signature="e#811#812#0" expanded="true" />
-            <element signature="e#859#860#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -593,10 +534,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Accessories/Accessory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+          <folding>
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/AccessoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+        <state relative-caret-position="88">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#191#192#0" expanded="true" />
@@ -609,6 +571,39 @@
             <element signature="e#854#855#0" expanded="true" />
             <element signature="e#1065#1066#0" expanded="true" />
             <element signature="e#1095#1096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Accessories/Strap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StrapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
+            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="e#1111#1112#0" expanded="true" />
           </folding>
         </state>
       </provider>
