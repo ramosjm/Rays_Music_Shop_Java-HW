@@ -5,4 +5,10 @@ public class Guitar extends Instrument {
     }
 
 
+    public String play(String title){
+        return "Guitar is playing" + title;
+
+    }
+
+
 }

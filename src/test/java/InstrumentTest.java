@@ -20,6 +20,12 @@ public class InstrumentTest {
     }
 
     @Test
+    public void instrumentCanSetBuyPrice(){
+        instrument.setBuyPrice(400.00);
+        assertEquals(400.00,instrument.getBuyPrice(),0.001);
+    }
+
+    @Test
     public void instrumentCanGetSellPrice(){
         assertEquals(630.90,instrument.getSellPrice(),0.001);
     }
