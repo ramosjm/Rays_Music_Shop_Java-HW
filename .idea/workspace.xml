@@ -260,22 +260,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StrapTest.canGetStrapMaterial">
-    <configuration name="AccessoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.codeclan.musicshoplab.MusicShop.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AccessoryTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.All in com.codeclan.musicshoplab.MusicShop.test">
     <configuration name="AccessoryTest.canCalculateMarkUp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.musicshoplab.MusicShop.test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="AccessoryTest" />
       <option name="METHOD_NAME" value="canCalculateMarkUp" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in com.codeclan.musicshoplab.MusicShop.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.musicshoplab.MusicShop.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -310,11 +309,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in com.codeclan.musicshoplab.MusicShop.test" />
         <item itemvalue="JUnit.StrapTest.canGetStrapMaterial" />
         <item itemvalue="JUnit.StrapTest" />
         <item itemvalue="JUnit.AccessoryTest.canCalculateMarkUp" />
         <item itemvalue="JUnit.InstrumentTest" />
-        <item itemvalue="JUnit.AccessoryTest" />
       </list>
     </recent_temporary>
   </component>

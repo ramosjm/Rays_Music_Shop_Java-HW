@@ -13,8 +13,6 @@ public class StrapTest {
         strap = new Strap("Short Strap", 150.50, 300.00,"Leather");
     }
 
-    //Strap as strap
-
     @Test
     public void canGetDescription(){
         assertEquals("Short Strap", strap.getDescription());

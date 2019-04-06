@@ -8,7 +8,4 @@ public class Piano extends Instrument {
         return "Piano is playing " + title;
     }
 
-    public double calculateMarkUp(){
-        return this.getSellPrice() - this.getBuyPrice();
-    }
 }

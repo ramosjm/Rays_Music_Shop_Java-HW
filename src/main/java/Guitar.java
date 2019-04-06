@@ -8,9 +8,4 @@ public class Guitar extends Instrument {
         return "Guitar is playing " + title;
     }
 
-    public double calculateMarkUp(){
-        return this.getSellPrice() - this.getBuyPrice();
-    }
-
-
 }

@@ -8,8 +8,4 @@ public class Flute extends Instrument {
         return "Flute is playing " + title;
     }
 
-    public double calculateMarkUp(){
-        return this.getSellPrice() - this.getBuyPrice();
-    }
-
 }
