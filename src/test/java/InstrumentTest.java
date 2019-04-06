@@ -16,10 +16,11 @@ public class InstrumentTest {
     // Instrument as Guitar
     @Test
     public void instrumentCanGetBuyPrice(){
-        Instrument instrument = new Guitar(350.50,630.90,InstrumentType.STRING);
         assertEquals(350.50,instrument.getBuyPrice(),0.001);
     }
 
     @Test
-    public void
+    public void instrumentCanGetSellPrice(){
+        assertEquals(630.90,instrument.getSellPrice(),0.001);
+    }
 }

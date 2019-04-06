@@ -14,4 +14,8 @@ public abstract class Instrument {
         return this.buyPrice;
     }
 
+    public double getSellPrice(){
+        return this.sellPrice;
+    }
+
 }
