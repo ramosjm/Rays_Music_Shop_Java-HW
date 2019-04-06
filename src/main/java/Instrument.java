@@ -22,6 +22,10 @@ public abstract class Instrument implements IPlay {
         return this.sellPrice;
     }
 
+    public void setSellPrice(double newSellPrice){
+        this.sellPrice = newSellPrice;
+    }
+
     public InstrumentType getType(){
         return this.instrumentType;
     }

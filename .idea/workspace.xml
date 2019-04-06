@@ -203,22 +203,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.InstrumentTest.instrumentCanSetBuyPrice">
+  <component name="RunManager" selected="JUnit.InstrumentTest.instrumentCanSetSellPrice">
     <configuration name="InstrumentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.musicshoplab.MusicShop.test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="InstrumentTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InstrumentTest.canGetBuyPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.codeclan.musicshoplab.MusicShop.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="InstrumentTest" />
-      <option name="METHOD_NAME" value="canGetBuyPrice" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -253,13 +243,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InstrumentTest.instrumentCanSetSellPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.musicshoplab.MusicShop.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InstrumentTest" />
+      <option name="METHOD_NAME" value="instrumentCanSetSellPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.InstrumentTest.instrumentCanSetSellPrice" />
         <item itemvalue="JUnit.InstrumentTest.instrumentCanSetBuyPrice" />
         <item itemvalue="JUnit.InstrumentTest" />
         <item itemvalue="JUnit.InstrumentTest.instrumentCanGetSellPrice" />
         <item itemvalue="JUnit.InstrumentTest.instrumentCanGetBuyPrice" />
-        <item itemvalue="JUnit.InstrumentTest.canGetBuyPrice" />
       </list>
     </recent_temporary>
   </component>

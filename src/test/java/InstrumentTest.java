@@ -31,6 +31,12 @@ public class InstrumentTest {
     }
 
     @Test
+    public void instrumentCanSetSellPrice(){
+        instrument.setSellPrice(900.90);
+        assertEquals(900.90,instrument.getSellPrice(),0.001);
+    }
+
+    @Test
     public void instrumentCanGetInstrumentType(){
         assertEquals(InstrumentType.STRING,guitar.getType());
     }
