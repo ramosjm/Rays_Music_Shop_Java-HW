@@ -1,3 +1,5 @@
+import Instruments.Guitar;
+import Instruments.InstrumentType;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -9,7 +11,7 @@ public class GuitarTest {
 
     @Before
     public void before(){
-        guitar = new Guitar(300.50,600.00,InstrumentType.STRING);
+        guitar = new Guitar(300.50,600.00, InstrumentType.STRING);
 
     }
 
@@ -42,7 +44,7 @@ public class GuitarTest {
 
     @Test
     public void canPlay(){
-        assertEquals("Guitar is playing Yay",guitar.play("Yay"));
+        assertEquals("Instruments.Guitar is playing Yay",guitar.play("Yay"));
 
     }
 }

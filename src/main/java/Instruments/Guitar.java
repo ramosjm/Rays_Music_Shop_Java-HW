@@ -1,3 +1,5 @@
+package Instruments;
+
 public class Guitar extends Instrument {
 
     public Guitar(double buyPrice, double sellPrice, InstrumentType instrumentType){
@@ -5,7 +7,7 @@ public class Guitar extends Instrument {
     }
 
     public String play(String title){
-        return "Guitar is playing " + title;
+        return "Instruments.Guitar is playing " + title;
     }
 
 }

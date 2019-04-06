@@ -1,3 +1,5 @@
+import Instruments.Flute;
+import Instruments.InstrumentType;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -41,7 +43,7 @@ public class FluteTest {
 
     @Test
     public void canPlay(){
-        assertEquals("Flute is playing Tune",flute.play("Tune"));
+        assertEquals("Instruments.Flute is playing Tune",flute.play("Tune"));
 
     }
 }

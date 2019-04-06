@@ -1,3 +1,6 @@
+import Instruments.Guitar;
+import Instruments.Instrument;
+import Instruments.InstrumentType;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -11,9 +14,9 @@ public class InstrumentTest {
     @Before
     public void before(){
         guitar = new Guitar(300.50,600.00,InstrumentType.STRING);
-        instrument = new Guitar(350.50,630.90,InstrumentType.STRING);
+        instrument = new Guitar(350.50,630.90, InstrumentType.STRING);
     }
-    // Instrument as Guitar
+    // Instruments.Instrument as Instruments.Guitar
     @Test
     public void instrumentCanGetBuyPrice(){
         assertEquals(350.50,instrument.getBuyPrice(),0.001);
