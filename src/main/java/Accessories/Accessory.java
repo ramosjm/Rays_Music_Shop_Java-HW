@@ -20,4 +20,8 @@ public abstract class Accessory {
     public double getBuyPrice() {
         return buyPrice;
     }
+
+    public void setBuyPrice(double newPrice){
+        this.buyPrice = newPrice;
+    }
 }

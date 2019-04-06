@@ -272,7 +272,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AccessoryTest.canGetBuyPrice">
+  <component name="RunManager" selected="JUnit.AccessoryTest.canSetBuyPrice">
     <configuration name="AccessoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.musicshoplab.MusicShop.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -302,11 +302,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FluteTest.canPlay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AccessoryTest.canSetBuyPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.musicshoplab.MusicShop.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FluteTest" />
-      <option name="METHOD_NAME" value="canPlay" />
+      <option name="MAIN_CLASS_NAME" value="AccessoryTest" />
+      <option name="METHOD_NAME" value="canSetBuyPrice" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -324,11 +324,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AccessoryTest.canSetBuyPrice" />
         <item itemvalue="JUnit.AccessoryTest.canGetBuyPrice" />
         <item itemvalue="JUnit.AccessoryTest.canGetDescription" />
         <item itemvalue="JUnit.AccessoryTest" />
         <item itemvalue="JUnit.InstrumentTest.canCalculateMarkUp" />
-        <item itemvalue="JUnit.FluteTest.canPlay" />
       </list>
     </recent_temporary>
   </component>
