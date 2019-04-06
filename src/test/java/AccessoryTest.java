@@ -22,10 +22,10 @@ public class AccessoryTest {
         assertEquals("Short Strap", accessory.getDescription());
     }
 
-//    @Test
-//    public void canGetBuyPrice(){
-//        assertEquals(150.50,accessory.getBuyPrice(),0.001);
-//    }
+    @Test
+    public void canGetBuyPrice(){
+        assertEquals(150.50,accessory.getBuyPrice(),0.001);
+    }
 //
 //    @Test
 //    public void canSetBuyPrice(){

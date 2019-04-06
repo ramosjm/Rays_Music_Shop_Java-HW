@@ -16,4 +16,8 @@ public abstract class Accessory {
     public String getDescription(){
         return this.description;
     }
+
+    public double getBuyPrice() {
+        return buyPrice;
+    }
 }
