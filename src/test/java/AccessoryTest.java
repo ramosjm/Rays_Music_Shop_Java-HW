@@ -44,5 +44,11 @@ public class AccessoryTest {
         assertEquals(450.55,accessory.getSellPrice(),0.001);
     }
 
+    @Test
+
+    public void canCalculateMarkUp(){
+        assertEquals(149.50,accessory.calculateMarkUp(),0.001);
+    }
+
 
 }

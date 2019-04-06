@@ -1,6 +1,8 @@
 package Accessories;
+import Interfaces.ISell;
 
-public abstract class Accessory {
+
+public abstract class Accessory implements ISell{
 
     private String description;
     private double buyPrice;
@@ -29,7 +31,11 @@ public abstract class Accessory {
         return sellPrice;
     }
 
-    public double setSellPrice(double newPrice){
-       return this.sellPrice = newPrice;
+    public void setSellPrice(double newPrice){
+        this.sellPrice = newPrice;
+    }
+
+    public double calculateMarkUp(){
+        return this.getSellPrice() - this.getBuyPrice();
     }
 }

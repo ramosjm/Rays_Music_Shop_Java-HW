@@ -1,4 +1,7 @@
-public abstract class Instrument implements IPlay, ISell{
+import Interfaces.IPlay;
+import Interfaces.ISell;
+
+public abstract class Instrument implements IPlay, ISell {
 
     private double buyPrice;
     private double sellPrice;
