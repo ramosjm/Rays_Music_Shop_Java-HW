@@ -15,4 +15,8 @@ public class Shop {
     public String getName() {
         return name;
     }
+
+    public int countStock(){
+        return this.stock.size();
+    }
 }
