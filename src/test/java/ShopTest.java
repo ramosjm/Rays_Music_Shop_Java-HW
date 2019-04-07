@@ -1,9 +1,11 @@
 import Instruments.Guitar;
 import Instruments.InstrumentType;
+import Interfaces.ISell;
 import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNotNull;
 
 public class ShopTest {
 
@@ -32,8 +34,14 @@ public class ShopTest {
         assertEquals(1,shop.countStock());
     }
 
-//    @Test
-//    public void canGetStock(){
-//
-//    }
+    @Test
+    public void canRemoveFromStock(){
+        shop.addToStock(guitar);
+        shop.addToStock(guitar);
+        ISell removedItem =shop.removeFromStock();
+        assertNotNull(removedItem);
+        assertEquals(1,shop.countStock());
+    }
+
+
 }
